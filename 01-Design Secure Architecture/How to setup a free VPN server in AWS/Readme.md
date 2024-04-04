@@ -1,2 +1,3 @@
 <H2> Architecture Diagram </h2>
-https://github.com/nilesh-shardul/AWS-Labs/assets/40804989/1e2bcd1a-1a61-4dd9-abf2-00436b6b03c5
+
+![Architecture Diagram](https://github.com/nilesh-shardul/AWS-Labs/assets/40804989/4c74f489-9660-4291-b39f-7c2bbf00513f)
