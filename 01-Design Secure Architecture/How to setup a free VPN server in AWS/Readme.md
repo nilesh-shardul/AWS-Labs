@@ -16,8 +16,6 @@
 
 <li> Connect to the VPN </li>
 
-<li> Validation of the lab </li>
-
 <li> Deleting AWS Resources </li>
   
 </ol>
