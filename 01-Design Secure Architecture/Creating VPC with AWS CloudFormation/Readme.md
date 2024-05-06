@@ -78,7 +78,9 @@ This lab walks you through how to create a VPC using an AWS CloudFormation Stack
 </ol>
 <H2> ARCHITECTURE DIAGRAM </h2>
 
+![Architecture diagram1-VPC stack creation](https://github.com/nilesh-shardul/AWS-Labs/assets/40804989/6fcafa83-c3b4-425f-9e86-42f22f4dc635)
 
+![Architecture diagram2-VPC updated stack creation](https://github.com/nilesh-shardul/AWS-Labs/assets/40804989/858bdcad-a43c-4953-9eeb-396a31d64469)
 
 <h2> TASK DETAILS </h2>
 
