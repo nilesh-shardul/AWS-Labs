@@ -27,9 +27,7 @@ LAMP (Linux, Apache, MySQL, PHP/Perl/Python) is an acronym denoting one of the m
 
 </ol>
 
-<H3> CloudFormation Template </H3>
-
-  
+<H3> I. CloudFormation Template </H3>
 
 <ol>
   <li>   It consists of various sections like -
@@ -57,7 +55,8 @@ LAMP (Linux, Apache, MySQL, PHP/Perl/Python) is an acronym denoting one of the m
 
 
 
-<H3> CloudFormation Stack </H3>
+<H3> II. CloudFormation Stack </H3>
+
 <ol>
  <li> A stack consists of a collection of resources. </li>
 
