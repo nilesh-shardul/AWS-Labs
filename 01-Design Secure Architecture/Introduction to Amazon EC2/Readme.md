@@ -35,10 +35,10 @@ Amazon Web Services (AWS) offers a revolutionary cloud-based web service called 
 
 <ol>
 
-<li> 1. Sign in to AWS Management Console </li>
-<li> 2. Launch an EC2 instance with desired specifications </li>
-<li> 3. SSH into the EC2 instance using the key pair </li>
-<li> 4. Install an Apache server on the instance </li>
-<li> 5. Create a web page and publish it on the instance</li>
+<li> Sign in to AWS Management Console </li>
+<li> Launch an EC2 instance with desired specifications </li>
+<li> SSH into the EC2 instance using the key pair </li>
+<li> Install an Apache server on the instance </li>
+<li> Create a web page and publish it on the instance</li>
   
 </ol>
