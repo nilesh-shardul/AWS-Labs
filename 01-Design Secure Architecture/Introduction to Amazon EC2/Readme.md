@@ -30,7 +30,8 @@ Amazon Web Services (AWS) offers a revolutionary cloud-based web service called 
 
 <H2> ARCHITECTURE DIAGRAM </h2>
 
-![Architecture Diagram](https://github.com/user-attachments/assets/c9a627f4-5b4b-43e6-9de7-491d17c2e2ea)
+
+![Architecture Diagram](https://github.com/user-attachments/assets/bc0b8ffc-d443-47ba-ac82-9516fef2f907)
 
 
 <h2> TASK DETAILS </h2>
