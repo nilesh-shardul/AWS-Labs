@@ -50,6 +50,7 @@ This lab walks you through the steps to create an Application Load Balancer from
 
 <H2> ARCHITECTURE DIAGRAM </h2>
 
+![Architecture diagram](https://github.com/user-attachments/assets/5e137331-3b57-4e44-81af-ed2036f3492a)
 
 
 <h2> TASK DETAILS </h2>
