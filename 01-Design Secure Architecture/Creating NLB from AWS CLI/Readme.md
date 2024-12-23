@@ -47,6 +47,7 @@ This lab walks you through the steps to create and configure a network load bala
 <H2> ARCHITECTURE DIAGRAM </h2>
 
 
+![Architecture diagram](https://github.com/user-attachments/assets/80418f37-1978-4a46-93c7-a8d28d4187d3)
 
 
 <h2> TASK DETAILS </h2>
