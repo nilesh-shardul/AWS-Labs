@@ -13,6 +13,7 @@
 
 <H2> ARCHITECTURE DIAGRAM </h2>
 
+![Architecture diagram](https://github.com/user-attachments/assets/3e2c5ee3-02d7-4fd2-9827-288f020099b0)
 
 
 
