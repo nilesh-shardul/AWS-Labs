@@ -34,7 +34,7 @@ These users will later be added to their respective groups.
 #### **Add User Details**
 - **User name:** `John` (or desired name)
 - Check **Provide user access to the AWS Management Console - optional**
-- Select **Custom password** and enter `whizlabs@123` (or desired password)
+- Select **Custom password** and enter `labs@123` (or desired password)
 - Uncheck **Users must create a new password at next sign-in**
 - Click **Next**
 
@@ -124,21 +124,6 @@ This feature is useful for:
 - Getting recommendations to remove unintended access
 
 Access Analyzer makes it easier to maintain a **secure AWS environment**.
-
----
-
-### **Task 4: Validation Test**
-
-After completing all steps:
-
-1. Click the **Lab Validation** button on the left panel.
-2. Select **Validate My Lab** on the **Lab Validation** tab.
-
-This will validate the AWS resources and display whether you completed the lab successfully.
-
-**Sample Output:**
-
-![Lab Validation Output](image6.png)
 
 ---
 
