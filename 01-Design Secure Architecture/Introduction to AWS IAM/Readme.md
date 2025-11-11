@@ -46,8 +46,9 @@ Here are some **key highlights** of Amazon EC2:
 ## **Architecture Diagram**
 
 Below is the architecture representation of this lab setup:
+<img width="703" height="356" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/16a83a37-c9f0-42cb-b5be-21233dd9d1e8" />
 
-![EC2 Architecture Diagram](image1.png)
+
 
 ---
 
