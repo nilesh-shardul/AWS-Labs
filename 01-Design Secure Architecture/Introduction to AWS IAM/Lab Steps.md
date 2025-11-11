@@ -61,9 +61,9 @@ Click **Return to users list** and then **Continue**.
 
 | User Name | Custom Password | Key      | Value      |
 |------------|----------------|-----------|-------------|
-| Sarah      | whizlabs@123   | Dev-Team  | Developers  |
-| Ted        | whizlabs@123   | HR-Team   | HR          |
-| Rita       | whizlabs@123   | HR-Team   | HR          |
+| Sarah      | labs@123   | Dev-Team  | Developers  |
+| Ted        | labs@123   | HR-Team   | HR          |
+| Rita       | labs@123   | HR-Team   | HR          |
 
 ✅ You have successfully created **4 IAM users**: John, Sarah, Ted, and Rita.
 
